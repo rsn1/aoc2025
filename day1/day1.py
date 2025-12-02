@@ -18,3 +18,5 @@ for x in data:
             if cur == 100:
                 cur = 0
                 ans += 1
+
+print(ans)
